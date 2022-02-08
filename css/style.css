@@ -1,15 +1,14 @@
 .social-link{
-    width: 25px;
-    height: 25px;
+    width: 40px;
+    height: 40px;
     color: white;
-    padding: 5px;
     display: inline-block;
 
     .nav-link{
         color: white;
     }
-    .image profile{
-        background-image: url(../media/images/Soheila.jpg);
+    .profile{
+        background-image: url(../assets/media/images/profile-img.jpg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -17,12 +16,20 @@
         height: 100px;
     }
     .hero{
-        position: relative;
- 
+        
+        background-image: url(assets/media/images/Soheila.jpg);
+        width: 400px;
+        height: 500px;
 }
 .text1{
     position: absolute;
     bottom: 0;
     right: 0;
 }
+.text{
+    text-align: justify;
+}
+
+#bg-img{
     
+}
