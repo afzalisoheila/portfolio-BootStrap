@@ -1,4 +1,4 @@
-@import url("animate.css");
+
 
 /* .social-link {
     width: 40px;
@@ -13,12 +13,17 @@
     color: white;
   }
   .profile {
-    background-image: url(../assets/media/images/profile-img.jpg);
+    background-image: url(../media/images/Soheila.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100px;
     height: 100px;
+    overflow: hidden;
+    
+  }
+  .profileaside{
+    overflow: hidden;
   }
   .hero {
     background-image: url(../media/images/Soheila.jpg);
@@ -26,7 +31,7 @@
     background-position: 200px center;
     width: 100%;
     height: 600px;
-     background-attachment: fixed; 
+    background-attachment: fixed; 
   }
   .text1 {
     position: absolute;
@@ -43,5 +48,8 @@
     width: 100%;
     height: 50%; 
   } 
+  aside{
+    z-index: 100!important;
+  }
   
   
