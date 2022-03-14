@@ -59,4 +59,15 @@
     width: 250px;
     height: 300px;
   }
+
+  .facts{
+    font-size: 30pt;
+    color:#149ddd;
+    
+  }
+  .facts-info{
+    font-size: 30pt;
+    color: #000;
+  }
+  
   
