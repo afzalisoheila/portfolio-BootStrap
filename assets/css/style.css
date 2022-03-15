@@ -70,4 +70,10 @@
     color: #000;
   }
   
+  .resume-items{
+    padding: 0 0 15px 15px;
+    margin-top: 1px;
+    border-left: solid 2px #149ddd;
+  }
   
+  <i class="bi bi-circle"></i>
