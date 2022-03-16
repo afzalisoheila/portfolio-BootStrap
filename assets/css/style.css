@@ -74,6 +74,16 @@
     padding: 0 0 15px 15px;
     margin-top: 1px;
     border-left: solid 2px #149ddd;
+    position: relative;
   }
-  
-  <i class="bi bi-circle"></i>
+  .dates{
+    background-color: #149ddd;
+    width: 83px;
+    height: 22px;
+    padding-left: 5px;
+  }
+  .bi{
+    position: absolute;
+    top: -18px;
+    left: -9px;
+  }
