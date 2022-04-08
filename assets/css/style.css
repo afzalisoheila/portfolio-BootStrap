@@ -96,3 +96,10 @@
   .space{
     height: 12px;
   }
+  .Portfolio .nav-link{
+    color: #000;
+  }
+  .Portfolio .nav-link.active{
+    color: #149ddd;
+    background-color: aliceblue;
+  }
