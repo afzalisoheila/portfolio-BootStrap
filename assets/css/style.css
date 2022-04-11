@@ -103,3 +103,9 @@
     color: #149ddd;
     background-color: aliceblue;
   }
+  .Portfolio .nav-link:hover{
+    color: blue;
+  }
+  .Portfolio .nav-link:visited{
+    color:rgb(70, 7, 70);
+  }
