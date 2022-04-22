@@ -109,3 +109,8 @@
   .Portfolio .nav-link:visited{
     color:rgb(70, 7, 70);
   }
+  .indicator{
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+  }
