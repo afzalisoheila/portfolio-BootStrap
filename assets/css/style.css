@@ -114,3 +114,18 @@
     height: 10px;
     background-color: blue;
   }
+  .gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:282px;
+    width:353px;
+  }
+  
+  .mapouter{
+    position:relative;
+    text-align:right;
+    height:282px;
+    width:353px;
+  }
+              
+              
